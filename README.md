@@ -1,16 +1,19 @@
 <div align="center">
-  <img src="https://github.com/vascomassingue80-ship-it.png" alt="Vasco Bernardo Massingue" width="150" height="150" style="border-radius: 50%;">
-  
-  # Hi, I'm Vasco 👋
-  
-  ### 💻 software developer /
-  
+
+<img src="https://github.com/vascomassingue80-ship-it.png" alt="Vasco Bernardo Massingue" width="150" height="150" style="border-radius: 50%; border: 4px solid #9146FF; box-shadow: 0 0 15px #9146FF;">
+
+<br><br>
+
+<a href="https://github.com/vascomassingue80-ship-it">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=9146FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vasco+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Flutter+%7C+Java+%7C+PHP+Developer;Sempre+a+aprender+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
 </div>
 
 ---
 
 ### ☕ About Me
-* 🌱 I’m currently working on a School Management System and Flutter apps
+* 🌱 I'm currently working on a School Management System and Flutter apps
 * 💼 Aspiro a oportunidades como Jovem Aprendiz, Estagiário ou Desenvolvedor Júnior
 * ⚡ Fun fact: I love turning complex database logic into clean code
 
@@ -49,3 +52,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vascomassingue80-ship-it&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vascomassingue80-ship-it&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=vascomassingue80-ship-it&color=9146FF&style=flat)
+
+</div>
