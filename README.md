@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/vascomassingue80-ship-it.png" alt="Vasco Bernardo Massingue" width="150" height="150" style="border-radius: 50%; border: 4px solid #9146FF; box-shadow: 0 0 15px #9146FF;">
+<img src="https://wsrv.nl/?url=github.com/vascomassingue80-ship-it.png&w=150&h=150&mask=circle&border=4,9146ff" alt="Vasco Bernardo Massingue" width="150" height="150">
 
 <br><br>
 
