@@ -1,6 +1,7 @@
 <div align="center">
+  <img src="https://github.com/vascomassingue80-ship-it.png" alt="Vasco Bernardo Massingue" width="150" height="150" style="border-radius: 50%;">
   
-  # Hello! I'm Vasco 👋
+  # Hi, I'm Vasco 👋
   
   ### 💻 software developer /
   
